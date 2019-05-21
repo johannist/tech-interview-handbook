@@ -66,6 +66,7 @@ While loving to travel or appreciating Airbnb's growth may be good answers, try 
 Source: [Glassdoor](https://www.glassdoor.com/Interview/Amazon-Interview-Questions-E6036.htm)
 
 - How do you deal with a failed deadline?
+https://www.intheblack.com/articles/2017/12/07/impossible-work-deadlines
 - Why do you want to work for Amazon?
 - Tell me about a situation where you had a conflict with a teammate.
 - In my professional experience have you worked on something without getting approval from your manager?
